@@ -1,0 +1,6 @@
+handcuffs:
+  item:
+    name: "&7Handcuffs"
+    description: "&eLore1%nl%&6Lore2"
+    material: "GRAY_DYE"
+    custom-model-data: 0

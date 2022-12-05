@@ -1,0 +1,13 @@
+name: Handcuffs
+version: '${project.version}'
+main: dev.aangepast.handcuffs.Main
+api-version: 1.18
+commands:
+  gethandcuffs:
+    permission: handcuffs.get
+    permission-message: 'You are not permitted to execute this command.'
+    usage: /<command>
+  cuffsreset:
+    permission: handcuffs.reset
+    permission-message: 'You are not permitted to execute this command.'
+    usage: /<command>
